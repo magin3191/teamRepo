@@ -1,0 +1,19 @@
+{
+  "name": "teamrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magin3191/teamRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magin3191/teamRepo/issues"
+  },
+  "homepage": "https://github.com/magin3191/teamRepo#readme"
+}
